@@ -14,7 +14,7 @@ class MyCanvas(Canvas):
         this.balls = []
 
 	#THIS IS THE STARTING POSITION OF THE BALL, YOU CAN CHANGE IT IF YOU WANT
-        this.balls.append(this.makeBall ( 225, 300 ))
+        this.balls.append(this.makeBall (225, 300))
 
 	#THESE ARE THE BLOCKS YOU CAN CHANGE THEIR POSITIONS AND DELETE THEM IF YOU WANT
         this.makeStrongBlock(0, 100)
